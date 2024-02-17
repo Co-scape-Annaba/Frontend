@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "title": "Maîtriser le Marketing Produit : De la Conception à la Commercialisation",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "completedLessons": 5,
+    "totalLessons": 14,
+    "duration": "6h 30min",
+    "price": 120000,
+    "rating": 4.8,
+    "students": 100000,
+    "teacher": "Tom",
+    "category": "Marketing",
+    "banner": "images/cours-banner.png",
+    "content": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "duration": "30min",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Les Bases",
+        "duration": "1h 30min",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Les Outils",
+        "duration": "2h 30min",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "title": "Les Méthodes",
+        "duration": "1h",
+        "completed": false
+      },
+      {
+        "id": 5,
+        "title": "Les Techniques",
+        "duration": "1h",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Maîtriser le Project Management : le temps et les coûts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "completedLessons": 4,
+    "totalLessons": 12,
+    "duration": "5h 30min",
+    "price": 0,
+    "rating": 4.5,
+    "students": 80000,
+    "teacher": "Mohamed",
+    "category": "Management",
+    "banner": "images/cours-banner2.png",
+    "content": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "duration": "30min",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Les Bases",
+        "duration": "1h 30min",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Les Outils",
+        "duration": "2h 30min",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "title": "Les Méthodes",
+        "duration": "1h",
+        "completed": false
+      },
+      {
+        "id": 5,
+        "title": "Les Techniques",
+        "duration": "1h",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Financement du votre Projet : Les Bases",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "completedLessons": 10,
+    "totalLessons": 10,
+    "duration": "4h 30min",
+    "price": 80000,
+    "rating": 4.3,
+    "students": 60000,
+    "teacher": "Tom",
+    "category": "Finance",
+    "banner": "images/cours-banner3.png",
+    "content": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "duration": "30min",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Les Bases",
+        "duration": "1h 30min",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Les Outils",
+        "duration": "2h 30min",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "title": "Les Méthodes",
+        "duration": "1h",
+        "completed": false
+      },
+      {
+        "id": 5,
+        "title": "Les Techniques",
+        "duration": "1h",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "leader Ship : meme team meme vision",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "completedLessons": 0,
+    "totalLessons": 15,
+    "duration": "7h 30min",
+    "price": 150000,
+    "rating": 4.9,
+    "students": 120000,
+    "teacher": "John",
+    "category": "Management",
+    "banner": "images/cours-banner4.png",
+    "content": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "duration": "30min",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Les Bases",
+        "duration": "1h 30min",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Les Outils",
+        "duration": "2h 30min",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "title": "Les Méthodes",
+        "duration": "1h",
+        "completed": false
+      },
+      {
+        "id": 5,
+        "title": "Les Techniques",
+        "duration": "1h",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": " Maîtrisez les Fondamentaux du Marketing Digital pour Booster Vos Ventes",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "completedLessons": 0,
+    "totalLessons": 20,
+    "duration": "9h 30min",
+    "price": 0,
+    "rating": 4.7,
+    "students": 90000,
+    "teacher": "Tom",
+    "category": "Marketing",
+    "banner": "images/cours-banner5.png",
+    "content": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "duration": "30min",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Les Bases",
+        "duration": "1h 30min",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Les Outils",
+        "duration": "2h 30min",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "title": "Les Méthodes",
+        "duration": "1h",
+        "completed": false
+      },
+      {
+        "id": 5,
+        "title": "Les Techniques",
+        "duration": "1h",
+        "completed": false
+      }
+    ]
+  }
+]
+
